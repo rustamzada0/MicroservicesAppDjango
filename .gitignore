@@ -1,0 +1,13 @@
+# gitignore template
+
+.venv
+*.pyc
+*.pyo
+*.egg-info
+*.dist-info
+*.swp
+*.swo
+*.class
+
+db.sqlite3
+data
